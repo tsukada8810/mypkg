@@ -6,8 +6,9 @@
   <description>"ロボットシステム学のやつ"</description>
   <maintainer email="szhongtain85@gmail.com">tsukada8810</maintainer>
   <license>BSD-3-Clause</license>
-  <exec_depand>rdlpy</exec_depend>
+  <exec_depend>rdlpy</exec_depend>
   <exec_depend>std_msgs</exec_depend>
+  <exec_depend>launch_ros</exec_depend>
 
   <test_depend>ament_copyright</test_depend>
   <test_depend>ament_flake8</test_depend>
